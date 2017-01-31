@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HHS.gov Content Type News Release feature.
+ */
+
+include_once 'hhs_gov_content_type_news_release.features.inc';
