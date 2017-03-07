@@ -22,4 +22,4 @@ This module is generated using Features module. It packages fields and variables
 https://www.drupal.org/docs/7/extending-drupal-7/installing-contributed-modules-find-import-enable-configure-drupal-7 
 
 <h2>For More Information</h2>
-contact us for more details... etc
+Contact Arash Farazdaghi, Vinay Jain, Christen Geiler, or Sara Kieffer-Hess for more information.
